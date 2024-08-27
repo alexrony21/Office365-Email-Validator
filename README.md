@@ -1,6 +1,6 @@
 # Office Valid Email Checker
 
-The Office Valid Email Checker tool will check your email list from a txt file and verify which emails are associated with office accounts and which are not. The tool supports multithreading for faster checking and automatically handles proxy settings.
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Office-Valid-Email-Checker/main/Office_Valid_Email_Checker.png)
 
 ## Features
 
